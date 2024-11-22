@@ -1,0 +1,23 @@
+package piano;
+import java.io.File;
+
+import javax.sound.sampled.*;
+
+public class TocarNotas {
+	public void playDo() {
+		try {
+			//Cargar el archivo de audio
+			File audioFile = new File("do.wav");
+            AudioInputStream audioStream = AudioSystem.getAudioInputStream(audioFile);
+            
+            //Obtener el clip de audio y abri el flujo
+            Clip audioClip = AudioSystem.getClip();
+            audioClip.open(audioStream);
+            audioClip.start();
+			
+		}catch (Exception e) {
+			e.getStackTrace();
+		}
+	}
+
+}

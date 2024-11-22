@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enlaces>
+	<pagina>
+		<nombre>Ministerio de Educación y Formación Profesional</nombre>
+		<descripcion>Ofrece información para estudiantes, profesorado y centros educativos</descripcion>
+		<url>http://www.educacionyfp.gob.es/portada.html</url>
+	</pagina>
+	<pagina>
+		<nombre>MEDAC</nombre>
+		<descripcion>Instituto Oficial de Formación Profesional</descripcion>
+		<url>http://medac.es</url>
+	</pagina>
+	<pagina>
+		<nombre>W3C</nombre>
+		<descripcion>Consorcio formado para el desarrollo de protocolos comunes de la web</descripcion>
+		<url>http://www.w3.org/</url>
+	</pagina>
+</enlaces>

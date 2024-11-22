@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.model.property.order.ReorderDialog">
+		<item key="x" value="580"/>
+		<item key="y" value="322"/>
+		<item key="width" value="520"/>
+		<item key="height" value="366"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.model.property.editor.string.StringPropertyDialog">
+		<item key="x" value="0"/>
+		<item key="y" value="400"/>
+		<item key="width" value="530"/>
+		<item key="height" value="346"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item key="x" value="577"/>
+		<item key="y" value="284"/>
+		<item key="width" value="686"/>
+		<item key="height" value="442"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="C:\Users\carli\eclipse-workspace\calendario\calendar\jcalendar-1.4\lib\junit-4.6.jar"/>
+			<item value="C:\Users\carli\eclipse-workspace\calendario\calendar\jcalendar-1.4\lib\jgoodies-looks-2.4.1.jar"/>
+			<item value="C:\Users\carli\eclipse-workspace\calendario\calendar\jcalendar-1.4\lib\jgoodies-common-1.2.0.jar"/>
+			<item value="C:\Users\carli\eclipse-workspace\calendario\calendar\jcalendar-1.4\lib\jcalendar-1.4.jar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ComponentAddDialog">
+		<item key="x" value="526"/>
+		<item key="y" value="315"/>
+		<item key="width" value="627"/>
+		<item key="height" value="380"/>
+	</section>
+</section>

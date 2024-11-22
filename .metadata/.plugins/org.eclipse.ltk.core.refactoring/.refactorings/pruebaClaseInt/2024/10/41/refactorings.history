@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pruebaClaseInt.Jframe&apos; to &apos;Principal&apos;&#x0D;&#x0A;- Original project: &apos;pruebaClaseInt&apos;&#x0D;&#x0A;- Original element: &apos;pruebaClaseInt.Jframe&apos;&#x0D;&#x0A;- Renamed element: &apos;pruebaClaseInt.Principal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Jframe&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pruebaClaseInt{Jframe.java[Jframe" matchStrategy="1" name="Principal" qualified="false" references="true" similarDeclarations="false" stamp="1728576251547" textual="false" version="1.0"/>
+</session>

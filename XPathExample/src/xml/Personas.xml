@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas [
+  <!ELEMENT personas (persona+)>
+  <!ELEMENT persona (nombre, edad, email)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT edad (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+]>
+<personas>
+  <persona>
+    <nombre>Juan</nombre>
+    <edad>30</edad>
+    <email>juan@example.com</email>
+  </persona>
+  <persona>
+    <nombre>Ana</nombre>
+    <edad>25</edad>
+    <email>ana@example.com</email>
+  </persona>
+  <persona>
+    <nombre>Pepe</nombre>
+    <edad>27</edad>
+    <email>pepe@example.com</email>
+  </persona>
+</personas>
